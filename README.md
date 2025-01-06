@@ -87,6 +87,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 
-- **Ranjan Menson**
+- **Ranjan**
 
 Feel free to reach out for collaboration or feedback on the project!
