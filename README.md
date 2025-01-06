@@ -69,7 +69,7 @@ This project is an NLP (Natural Language Processing) application designed to pre
 - `requirements.txt`: List of dependencies required to run the project.
 
 ##Deployment in Streamlit image:-
-<img src="" width="600">
+<img src="https://github.com/rpjinu/Emotion_prediction/blob/main/Deploy_image.jpg" width="600">
 
 ## Future Enhancements
 
